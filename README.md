@@ -5,7 +5,7 @@ Several language related features were encoded.
 
 ## fMRI data preprocessed
 
-To preprocess data we used fmriprep (Poldrak et al ).
+To preprocess data we used fmriprep (Poldrack et al ) https://fmriprep.org/en/stable/
 
 ## Multiple linear regression models created
 
