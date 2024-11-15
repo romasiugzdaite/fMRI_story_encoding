@@ -1,9 +1,4 @@
 participant_id	age	sex
-sub-UTS01	24	F
-sub-UTS02	34	M
-sub-UTS03	21	M
-sub-UTS04	31	M
-sub-UTS05	24	F
-sub-UTS06	23	F
-sub-UTS07	25	M
-sub-UTS08	24	M
+sub-001	3	F
+sub-002	3	M
+sub-003	3	M
